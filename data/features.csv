@@ -108,7 +108,7 @@ wlan_mgt.fixed.timestamp
 wlan_mgt.fixed.beacon
 wlan_mgt.fixed.aid
 wlan_mgt.fixed.reason_code
-wlan_mgt.fixed.auth.alg
+wlan_mgt.fixed.auth.alg 
 wlan_mgt.fixed.auth_seq
 wlan_mgt.fixed.category_code
 wlan_mgt.fixed.htact
